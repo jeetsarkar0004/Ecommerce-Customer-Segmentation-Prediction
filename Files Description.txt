@@ -1,0 +1,9 @@
+Files Description:
+
+data.csv is the raw dataset.
+cleaned_data.csv is the data after cleaning, it is required for PowerBI Dashboard.
+rmf.csv is the segmentation data, it is required for PowerBI Dashbaord. 
+model_comparison.csv is the data with all the model names and their metric scores.
+Segmentation and Prediction.jpynb is the python code.
+Customer_Segmentation_Capstone.pptx is the PowerPoint Presentation file.
+Dashboard.pbix is the PowerBI report.
